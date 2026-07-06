@@ -4,7 +4,7 @@
 
 ## Testes GET
 
-Em https://developer.microsoft.com/en-us/graph/graph-explorer?utm_source=chatgpt.com
+Em https://developer.microsoft.com/en-us/graph/graph-explorer
 - GET /me
 - GET https://graph.microsoft.com/v1.0/me/joinedTeams
 - 
