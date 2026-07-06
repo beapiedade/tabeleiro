@@ -1,14 +1,13 @@
 # tabeleiro
 
-# Tabeleiro
+## Testes Py
+pip install openpyxl
+python3 -m pip install --upgrade pip 
 
 ## Testes GET
-
 Em https://developer.microsoft.com/en-us/graph/graph-explorer
 - GET /me
 - GET https://graph.microsoft.com/v1.0/me/joinedTeams
-- 
-
 ```
 {
     "id": "a1f7efe7-6c0c-4200-93ad-4433305c1834",
